@@ -19,18 +19,18 @@ De squad leaders van eerstejaars moet op de hoogte zijn van welke studenten op w
 
 Jouw taken bestaan uit: 
 
-- Je helpt in een workshop als de studenten een opdracht hebben gekregen
-- Je doet code/design reviews op leertaken
+- Je bereidt de workshop voor en helpt de studenten bij de opdracht die ze krijgen
 - Je beantwoordt vragen over HTML, CSS en JS
-- Je geeft in Portflow feedback op reflecties van eerstejaars en bespreekt hun werk
+- Je doet code/design reviews op leertaken
+- Je geeft in feedback in issues van eerstejaars 
 - Optioneel: Als je het leuk vindt, mag je zelf een workshop of presentatie geven
 
 ## Definition of Done
 
 Deze opdracht is aan het eind van het semester done als je:
 
-- [ ] Studenten aantoonbaar uitvoerig hebt begeleid bij het uitvoeren van leertaken. 
-- [ ] Tijdens sprint 2,3,4,5 en 6 Design en code van projecten van eerstejaars studenten hebt gereviewed.
-- [ ] Feedback hebt gegeven in Portflow.
+- [ ] Studenten aantoonbaar uitvoerig hebt begeleid bij het uitvoeren van leertaken.
+- [ ] Tijdens sprint 2,3,4,5 en 6 design en code van projecten van eerstejaars studenten hebt gereviewed.
+- [ ] Feedback hebt gegeven in issues op de repositories van eerstejaars studenten.
 
 
