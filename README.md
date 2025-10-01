@@ -7,6 +7,8 @@ De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/mentor/blo
 
 ## 1-10-2025
 
+Vandaag in de les heb ik Kate en Khouloud begeleidt.
+
 ### Voorbereiding
 
 In de les van eerstejaars: workshop Breakpoints & Media queries, inloop 9:00, start 9:30 (les gegeven door Krijn).
@@ -81,3 +83,31 @@ h1 { font-size: clamp(1.75rem, 1.2rem + 2vw, 3rem); }
   body { background: #111; color: #eee; }
 }
 ```
+
+
+### Werkcollege notities
+
+1. Breakpoints
+
+Basisregels:
+
+1. Een _minimale_ grootte van 16px.
+2. Een _optimale_ regellengte van 10-12 woorden.
+3. Een regelafstand van 1.4
+
+Opdracht 
+
+**Vuistregels mediaqueries:**
+1. We gebruiken het Mobile First principe, te zien aan de min-width media query.
+2. We gebruiken CSS Nesting voor media queries, waardoor we de body selector niet hoeven te herhalen.
+
+### Issues
+
+Ik heb aan Khouloud tip gegeven in vorm van issue, dat ging over de opdrachtgever website. 
+
+<img width="703" height="522" alt="image" src="https://github.com/user-attachments/assets/13c79fb2-b820-4b4c-950d-4166a1a53635" />
+
+
+## 8-10-2025
+
+
