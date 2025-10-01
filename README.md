@@ -101,6 +101,25 @@ Opdracht
 1. We gebruiken het Mobile First principe, te zien aan de min-width media query.
 2. We gebruiken CSS Nesting voor media queries, waardoor we de body selector niet hoeven te herhalen.
 
+#### Opdracht
+
+Ik ging ook meedoen met opdracht:
+
+https://github.com/fdnd-task/the-client-website/blob/main/docs/breakpoints-en-media-queries.md#opdracht
+
+Mijn code:
+
+https://github.com/aliceafanasieva/i-love-web/blob/main/leesbare-teksten.html
+
+Screenshots:
+
+<img width="783" height="834" alt="image" src="https://github.com/user-attachments/assets/97b4269a-d357-4408-a42b-a74d209a94c4" />
+
+<img width="783" height="834" alt="image" src="https://github.com/user-attachments/assets/e0f4a828-8c2b-4927-b3eb-43839a7aff1c" />
+
+<img width="783" height="609" alt="image" src="https://github.com/user-attachments/assets/4359c320-80b3-41bd-a41e-07c023540945" />
+
+
 ### Issues
 
 Ik heb aan Khouloud tip gegeven in vorm van issue, dat ging over de opdrachtgever website. 
