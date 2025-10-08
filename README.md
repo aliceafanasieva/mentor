@@ -129,4 +129,12 @@ Ik heb aan Khouloud tip gegeven in vorm van issue, dat ging over de opdrachtgeve
 
 ## 8-10-2025
 
+#### Planning
+
+### Sprintreview en Readme voorbereiden voor donderdag
+
+1. Wat wil je donderdag laten zien en wat is daar nog voor nodig?
+2. Bereid de Sprint Review voor met studenten uit je squad, die dezelfde opdracht hebben
+3. Maaak een nette proffessionele Readme
+
 
