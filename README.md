@@ -139,12 +139,15 @@ Ik heb aan Khouloud tip gegeven in vorm van issue, dat ging over de opdrachtgeve
 
 ## 15-10-2025
 
-### WCAG Audit reviews
-- Kurollos: https://github.com/Kurollos/all-human-accessible-website/issues/10
-- Mathijs: https://github.com/MathijsN/all-human-accessible-website/issues/9
-- Tom: https://github.com/TZGaming/all-human-accessible-website/issues/11
-- Ayoub: https://github.com/Ayoubkh1/all-human-accessible-website/issues/1
+### WCAG Audit feedback
 
+Ik heb de presentaties over WCAG audit van eerstejaars studenten gereviewed en issues geschreven met tips en tops:
+
+- Kurollos: [https://github.com/Kurollos/all-human-accessible-website/issues/10](https://github.com/Kurollos/all-human-accessible-website/issues/10#issuecomment-3405064442)
+
+- Mathijs: [https://github.com/MathijsN/all-human-accessible-website/issues/9](https://github.com/MathijsN/all-human-accessible-website/issues/9#issuecomment-3405026724)
+
+- Tom: [https://github.com/TZGaming/all-human-accessible-website/issues/11](https://github.com/TZGaming/all-human-accessible-website/issues/11#issuecomment-3405093988)
 
 <img width="960" height="702" alt="image" src="https://github.com/user-attachments/assets/5177432a-4b9f-437d-9976-e62f2f7666cb" />
 
