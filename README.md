@@ -137,4 +137,15 @@ Ik heb aan Khouloud tip gegeven in vorm van issue, dat ging over de opdrachtgeve
 2. Bereid de Sprint Review voor met studenten uit je squad, die dezelfde opdracht hebben
 3. Maaak een nette proffessionele Readme
 
+## 15-10-2025
 
+### WCAG Audit reviews
+- Kurollos: https://github.com/Kurollos/all-human-accessible-website/issues/10
+- Mathijs: https://github.com/MathijsN/all-human-accessible-website/issues/9
+- Tom: https://github.com/TZGaming/all-human-accessible-website/issues/11
+- Ayoub: https://github.com/Ayoubkh1/all-human-accessible-website/issues/1
+
+
+<img width="960" height="702" alt="image" src="https://github.com/user-attachments/assets/5177432a-4b9f-437d-9976-e62f2f7666cb" />
+
+<img width="910" height="832" alt="image" src="https://github.com/user-attachments/assets/53a8547d-eb46-46cd-a957-10c4ae044a75" />
