@@ -159,7 +159,7 @@ Ik heb de presentaties over WCAG audit van eerstejaars studenten gereviewed en i
 
 Vandaag ben ik mentor van groep eerstejaars bij project AD-Connect.
 
-Samen met mijn groepje heb ik feedback gegeven aan de code van styleguide van [BCK](https://github.com/toasterbath0758/look-and-feel-styleguide-BCK/issues/9) een EFM.
+Samen met mijn groepje heb ik feedback gegeven aan de code van styleguide van [BCK](https://github.com/toasterbath0758/look-and-feel-styleguide-BCK/issues/9) en [EFM (Kate en Keileigh)](https://github.com/Kayleighhhhh/look-and-feel-styleguide/issues/8).
 
 Ik heb ook zelfstandig code/design review geschreven in een issue voor het groepje EFM: https://github.com/Kurollos/look-and-feel-styleguide/issues/6
 
