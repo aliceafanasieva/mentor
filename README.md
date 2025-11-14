@@ -163,7 +163,7 @@ Samen met mijn groepje heb ik feedback gegeven aan de code van styleguide van [B
 
 Ik heb ook zelfstandig code/design review geschreven in een issue voor het groepje EFM: https://github.com/Kurollos/look-and-feel-styleguide/issues/6
 
-Ik heb aantal dingen geleerd van eerstejaars, zoals gebruik maken van Markdown [alerts](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts) of css letterlijk citeren. 
+Ook heb ik zelf een aantal dingen geleerd van de eerstejaars studenten, zoals gebruik maken van Markdown [alerts](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts) of css letterlijk citeren. 
 
 
 
