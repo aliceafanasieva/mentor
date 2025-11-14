@@ -161,9 +161,11 @@ Vandaag ben ik mentor van groep eerstejaars bij project AD-Connect.
 
 Samen met mijn groepje heb ik feedback gegeven aan de code van styleguide van [BCK](https://github.com/toasterbath0758/look-and-feel-styleguide-BCK/issues/9) en [EFM (Kate en Keileigh)](https://github.com/Kayleighhhhh/look-and-feel-styleguide/issues/8).
 
-Ik heb ook zelfstandig code/design review geschreven in een issue voor het groepje EFM: https://github.com/Kurollos/look-and-feel-styleguide/issues/6
+Ik heb ook zelfstandig code/design review geschreven in een issue voor het groepje EFM: https://github.com/Kurollos/look-and-feel-styleguide/issues/6 en voor groepje AD-connect: https://github.com/JamieVos991/look-and-feel-styleguide/issues/10.
 
 Ook heb ik zelf een aantal dingen geleerd van de eerstejaars studenten, zoals gebruik maken van Markdown [alerts](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts) of css letterlijk citeren. 
+
+
 
 
 
