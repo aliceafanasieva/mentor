@@ -152,3 +152,18 @@ Ik heb de presentaties over WCAG audit van eerstejaars studenten gereviewed en i
 <img width="960" height="702" alt="image" src="https://github.com/user-attachments/assets/5177432a-4b9f-437d-9976-e62f2f7666cb" />
 
 <img width="910" height="832" alt="image" src="https://github.com/user-attachments/assets/53a8547d-eb46-46cd-a957-10c4ae044a75" />
+
+# 14-11-2025
+
+### Code/design review Look and Feel - Styleguide
+
+Vandaag ben ik mentor van groep eerstejaars bij project AD-Connect.
+
+Samen met mijn groepje heb ik feedback gegeven aan de code van styleguide van [BCK](https://github.com/toasterbath0758/look-and-feel-styleguide-BCK/issues/9) een EFM .
+
+Ik heb aantal dingen geleerd van eerstejaars, zoals gebruik maken van Markdown [alerts](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts) of css letterlijk citeren. 
+
+
+
+
+
