@@ -166,6 +166,51 @@ Ik heb ook zelfstandig code/design review geschreven in een issue voor het groep
 Ook heb ik zelf een aantal dingen geleerd van de eerstejaars studenten, zoals gebruik maken van Markdown [alerts](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts) of css letterlijk citeren. 
 
 
+# 26-11-2025
+
+## Voorbereiding Sprint Review - Tom, Mathijs, Kurollos
+
+Ik ga eerstejaars studenten begeleiden in hun voorbereiding voor de sprintreview 27 november. 
+
+### Doelstelling
+
+- Feedback verwerken van opdrachtgever – laten zien dat ik aan de hand van bepaalde feedback aan het ontwerp heb gewerkt.
+- Vooral de kant-en-klare website laten zien.
+- Concreet maken hoe je het laat zien en wat je precies toont.
+
+### Planning presentatie sprintreview
+
+#### Kurollos:
+
+"De kaartjes in de online catalogus zien er mooi uit, maar maak een filterfunctie om sneller door de catalogus te gaan." – Ik laat schetsen zien, dat ik het heb gebouwd, en dat ik het heb getest op responsiveness en met Lighthouse.
+
+"Achtergrondskleur veranderen van goud naar styleguide" – Ik heb de kleur van de achtergrond veranderd naar wit aan de hand van de styleguide en dit ook getest op contrast (accessibility).
+
+#### Mathijs:
+
+"Het logo uit de header" – Logo uit de header verwijderd.
+
+"De carousel niet gebruiken voor de tentoonstellingen" – Weggehaald uit de tentoonstellingen en toegevoegd aan de About us-sectie. Ik kan ook de schetsen met verschillende versies daarvan laten zien.
+
+"Play with different images" – Heel veel schetsen van verschillende hero images in Figma laten zien.
+
+"Navigatiebar menu items in de mobile niet zichtbaar maken, alleen voor uitklapmenu" – Ik heb de lijst voor mobile viewports verborgen en verplaatst naar het uitklapmenu in de hamburger.
+
+#### Tom:
+
+"Logo weghalen" – Ik heb het logo ook uit het navigatiemenu verwijderd.
+
+"Slideshow mist nog een titel" – Die heb ik toegevoegd.
+
+"Card should have book title & author & year. If you can add a filter (even if it’s not functioning) would also be good!" – Ik heb dit gemaakt en ga dat laten zien.
+
+"Blogs veranderen naar nieuws of stories" – Nieuws-template gemaakt ipv Blogs.
+
+Nieuwe contactpagina laten zien, met contact formulier daarin.
+
+
+
+
 
 
 
