@@ -218,6 +218,9 @@ Ik heb verschillende eerstejaars studenten begeleid in hun voorbereiding voor de
 Vandaag heb ik met eerstejaars studenten hun feedback vanuit vorige sprintreview doorgenomen en gekeken wat er allemaal was gelukt om te verwerken. Ook heb ik gezien wat van nieuwe feautures ze hebben toegevoegd en willen laten zien aan de opdrachtgever. Aan Kate heb ik [feedback gegeven in een issue](https://github.com/Kitkatisvibing/fix-the-flow-interactive-website/issues/9) over haar interactie (uitklap menu) met tips hoe ze deze nog kan verbeteren vóór de sprintreview.
 
 
+# 16-01-2025
+
+## Code design review - responsiveness
 
 
 
