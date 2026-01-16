@@ -222,7 +222,7 @@ Vandaag heb ik met eerstejaars studenten hun feedback vanuit vorige sprintreview
 
 ## Code design review - responsiveness - User test
 
-https://github.com/MathijsN/the-startup-responsive-interactive-website/issues/12
+User test gedaan op interactie van Mathijs: https://github.com/MathijsN/the-startup-responsive-interactive-website/issues/12
 
 
 
