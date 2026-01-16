@@ -220,7 +220,11 @@ Vandaag heb ik met eerstejaars studenten hun feedback vanuit vorige sprintreview
 
 # 16-01-2025
 
-## Code design review - responsiveness
+## Code design review - responsiveness - User test
+
+https://github.com/MathijsN/the-startup-responsive-interactive-website/issues/12
+
+
 
 
 
