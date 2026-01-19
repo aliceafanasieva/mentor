@@ -224,7 +224,10 @@ Vandaag heb ik met eerstejaars studenten hun feedback vanuit vorige sprintreview
 
 User test gedaan op interactie van Mathijs: https://github.com/MathijsN/the-startup-responsive-interactive-website/issues/12
 
+# 19-01-2025
 
+Feedback geschreven in issues voor https://github.com/gijscreator/the-startup-responsive-interactive-website/issues/41
+en ()
 
 
 
