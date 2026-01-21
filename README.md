@@ -226,8 +226,8 @@ User test gedaan op interactie van Mathijs: https://github.com/MathijsN/the-star
 
 # 19-01-2025
 
-Feedback geschreven in issues voor https://github.com/gijscreator/the-startup-responsive-interactive-website/issues/41
-en ()
+Feedback geschreven in issues voor Gijs https://github.com/gijscreator/the-startup-responsive-interactive-website/issues/41
+en Juliaan https://github.com/JulianDavelaar/the-startup-responsive-interactive-website/issues/14 en https://github.com/JulianDavelaar/the-startup-responsive-interactive-website/issues/13
 
 
 
